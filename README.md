@@ -1,2 +1,2 @@
 # harddownloader
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of mountains](https://wallpapercave.com/wp/wp2532971.jpg)
