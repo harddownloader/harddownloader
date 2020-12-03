@@ -1,2 +1,2 @@
 # harddownloader
-![Image of mountains](https://wallpapercave.com/wp/wp2532971.jpg)
+![Image of chybaka](https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif)
