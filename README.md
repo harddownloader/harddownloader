@@ -4,6 +4,6 @@
 # About me: :thinking:
 * Love pizza :pizza:
 * Front End Developer
-* I really love pizza :pizza: 
-   * :pizza: pizza pizza :pizza: :pizza:
-   * :pizza: pizza pizza pizza :pizza: :pizza: :pizza: :pizza:
+* :pizza: I really love pizza :pizza: 
+   * :pizza: :pizza: pizza pizza :pizza: :pizza:
+   * :pizza: :pizza: :pizza: :pizza: pizza pizza pizza :pizza: :pizza: :pizza: :pizza:
