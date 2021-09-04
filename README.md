@@ -6,25 +6,62 @@
 
 # About me: :thinking:
 
+Languages:
+
 - JavaScript
-- React
-- Vue
-- Redux
-- Vuex
+- some PHP and Python
+
+Frameworks:
+
+- React (+Redux)
+- Vue (+Vuex)
+- Express
+- Typescript
+
+SSR:
+
 - Next
 - Nuxt
-- Typescript
+
+Module bundler:
+
 - Webpack
+
+Other tools and tech:
+
 - WebSockets
-- Express
-- MongoDB
 - GraphQL
 - Apollo
 - Node.js
-- Git
-- Firebase
+
+DB:
+
+- MongoDB
+
+OS:
+
+- Windows
+- Linux
+
+UI Frameworks:
+
+- Material UI
+- Ant Design
+- Vuetify
+- Bootstrap
+
+Preprocessors:
+
 - Pug
 - SASS
 - Less
 - Stylus
-- Linux
+
+Web services:
+
+- Firebase
+- some AWS
+
+Control systems:
+
+- Git
