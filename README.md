@@ -1,10 +1,30 @@
-# harddownloader
-![Image of chybaka](https://i.pinimg.com/originals/cc/33/cd/cc33cdb7eff28957027a2eb858dbcf94.gif)
+# Hi 👋, I'm Serafim
+
+## Front End Developer with technical education.
+
+![react_neon](https://user-images.githubusercontent.com/55257833/132106346-fb006a49-558c-49ab-9378-5d600900323d.png)
 
 # About me: :thinking:
-* :rhinoceros:JS, and have experience on python:snake: and php:elephant:
-* :globe_with_meridians: I love beautiful interfaces :globe_with_meridians:
-* :pizza:Love pizza :pizza:
-* 👨🏻‍💻 Front End Developer 👨🏻‍💻 
-* :pizza: I really love pizza :pizza:
-* :pill: Coding the Matrix :pill:
+
+- JavaScript
+- React
+- Vue
+- Redux
+- Vuex
+- Next
+- Nuxt
+- Typescript
+- Webpack
+- WebSockets
+- Express
+- MongoDB
+- GraphQL
+- Apollo
+- Node.js
+- Git
+- Firebase
+- Pug
+- SASS
+- Less
+- Stylus
+- Linux
