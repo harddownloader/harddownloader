@@ -2,7 +2,7 @@
 
 <h3> Front End Developer with technical education.</h3>
 
-![react_neon](https://user-images.githubusercontent.com/55257833/132106346-fb006a49-558c-49ab-9378-5d600900323d.png)
+![1_rSZf79JdhO5QrLqVAi90AA](https://user-images.githubusercontent.com/55257833/174411779-19a5abdb-4847-4809-b1be-a6775d355228.gif)
 
 # About me: :thinking:
 
