@@ -8,30 +8,27 @@
 
 Languages:
 
-- JavaScript
-- some PHP and Python
+- Typescript and JavaScript
+- Python and some PHP
 
 Frameworks:
 
-- React (+Redux)
-- Vue (+Vuex)
+- NextJS, React (+Redux, +Mobx)
+- Nuxt, Vue (+Pinia)
+- NestJS
 - Express
-- Typescript
+- Django
 
-SSR:
+Testing:
 
-- Next
-- Nuxt
-
-Module bundler:
-
-- Webpack
+- Jest
+- Cypress
+- Storybook
 
 Other tools and tech:
 
-- WebSockets
-- GraphQL
-- Apollo
+- WebSockets/Socket.IO
+- REST API / GraphQL + Apollo
 - Node.js
 
 DB:
@@ -45,6 +42,7 @@ OS:
 
 UI Frameworks:
 
+- Tailwind
 - Material UI
 - Ant Design
 - Vuetify
@@ -53,13 +51,15 @@ UI Frameworks:
 Preprocessors:
 
 - Pug
-- SASS
+- SCSS/SASS
 - Less
 - Stylus
 
 Web services:
 
+- Google API
 - Firebase
+- Supabase
 - some AWS
 
 Control systems:
