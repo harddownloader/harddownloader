@@ -34,6 +34,7 @@ Other tools and tech:
 DB:
 
 - MongoDB
+- PostgreSQL
 
 OS:
 
