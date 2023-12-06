@@ -13,7 +13,7 @@ Languages:
 
 Frameworks:
 
-- NextJS, React (+Redux, +Mobx)
+- NextJS, React ( +Redux/MobX )
 - Nuxt, Vue (+Pinia)
 - NestJS
 - Express
@@ -35,6 +35,7 @@ DB:
 
 - MongoDB
 - PostgreSQL
+- Redis
 
 OS:
 
