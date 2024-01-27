@@ -37,6 +37,11 @@ DB:
 - PostgreSQL
 - Redis
 
+State managment:
+- Redux
+- Mobx
+- Zustand
+
 OS:
 
 - Windows
